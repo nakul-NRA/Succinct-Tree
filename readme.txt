@@ -1,4 +1,4 @@
-<----- CS201 Project: SuccinctDataStructures -----> 
+<----- CS201 Project: Succinct-Tree -----> 
 
 <----- Team Members ----->
    ---->Nakul Alhawadhi - 2021CSB1111
