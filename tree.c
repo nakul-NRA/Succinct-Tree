@@ -34,3 +34,28 @@ void addNode(tree ** k)
         addNode(&((*k)->children[i]));
     }
 }
+
+
+int main()
+{
+    number_of_nodes = 0;
+    tree * root = NULL;
+    printf("\nTree starting with Root Node.\n");
+    addNode(&root);
+
+    printf("\n--------------------------------------------------\n\n");
+    printf("NAME : VIKALP DHALWAL\nENTRY NUMBER : 2021CSB1140\n\n");
+    Balanced_Parentheses(&root, number_of_nodes);
+
+    printf("\n--------------------------------------------------\n\n");
+    printf("NAME : SHOBHIT JUGLAN\nENTRY NUMBER : 2021CSB1133\n\n");
+    DFUDS(&root, number_of_nodes);
+
+    printf("\n--------------------------------------------------\n\n");
+    printf("NAME : NAKUL ALAWADHI\nENTRY NUMBER : 2021CSB1111\n\n");
+    LOUDS_print(root, number_of_nodes);
+
+    printf("\n--------------------------------------------------\n");
+
+    return 0;
+}
