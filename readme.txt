@@ -1,7 +1,7 @@
 <----- CS201 Project: Succinct-Tree -----> 
 
 <----- Team Members ----->
-   ---->Nakul Alhawadhi - 2021CSB1111
+   ---->Nakul Alawadhi - 2021CSB1111
    ---->Vikalp Dhalwal - 2021CSB1140
    ---->Shobit Juglan - 2021CSB1132
 
